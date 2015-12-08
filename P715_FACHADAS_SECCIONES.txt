@@ -1,0 +1,44 @@
+Informe de Transferencia:
+Creado por AutoCAD eTransmit viernes, 20 de noviembre de 2015, 13:31.
+
+Dibujo:
+Esta transferencia se basa en P715_FACHADAS_SECCIONES.dwg.
+
+Archivos:
+
+Dibujo original:
+	P715_FACHADAS_SECCIONES.dwg
+
+Referencias (externas) de un dibujo de AutoCAD:
+	15-15VA02_Caratula.dwg
+	P715_PLANO BASE.dwg
+
+Los siguientes archivos se han excluido de la transferencia:
+	acad.fmp
+	Fonts\simplex.shx
+	Fonts\arial.ttf
+	Fonts\romans.shx
+	Fonts\tahoma.ttf
+	Fonts\romand__.ttf
+	FIRMAS\firma Ambrosio.bmp
+	FIRMAS\firma Jaime.bmp
+	Fonts\txt.shx
+	Fonts\MONOTXT.shx
+
+Los siguientes archivos no se han encontrado:
+	PlotCfgs\COLOR_01.ctb
+
+
+Notas para distribución:
+
+Archivos .DWG de referencia externa:
+Puede que haya caminos de referencias externas (refx).  Asegúrese de que estas rutas funcionan o que el dibujo original utiliza la referencia correcta.
+eTransmit no incluye archivos requeridos por las referencias externas a no ser que también los requiera el dibujo original.  En concreto, se omiten las tablas de estilos de trazado y las referencias externas superpuestas que el dibujo original no utiliza.
+
+Archivos de imagen ráster:
+Las rutas pueden estar presentes en referencias a imágenes ráster. Asegúrese de que estas rutas sean correctas o que el dibujo original utilice las referencias correctas.
+
+La variable FONTALT de AutoCAD está definida como:
+C:\Users\cande.leandro\appdata\roaming\autodesk\autocad 2015\r20.0\esp\support\simplex.shx
+Asegúrese de que la variable FONTALT se ha definido en este archivo o bien otra equivalente antes de abrir cualquier dibujo.  Todos los estilos de texto en los que faltan tipos de letra se definen automáticamente en este tipo de letra.
+
